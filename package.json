@@ -1,17 +1,15 @@
 {
   "name": "autocomplete-please",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An autocomplete plus provider for please.build",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/imranolas/autocomplete-please",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
