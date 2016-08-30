@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-please",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An autocomplete plus provider for please.build",
   "keywords": [],
   "repository": "https://github.com/imranolas/autocomplete-please",
