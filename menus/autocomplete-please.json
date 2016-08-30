@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle autocomplete-please",
+        "command": "autocomplete-please:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "autocomplete-please",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "autocomplete-please:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
